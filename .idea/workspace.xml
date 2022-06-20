@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2d27a29-ac57-490e-9d3d-1815742f4e0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicao_if_else_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condição_if_else/Cod_if_else.java" afterDir="false" />
+    <list default="true" id="e2d27a29-ac57-490e-9d3d-1815742f4e0b" name="Changes" comment="Comandos if_else em Java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condição_if_else/Cod_if_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Condição_if_else/Cod_if_else.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655677253550</updated>
     </task>
+    <task id="LOCAL-00001" summary="Comandos if_else em Java">
+      <created>1655681187148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655681187148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comandos if_else em Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comandos if_else em Java" />
   </component>
 </project>
