@@ -15,7 +15,7 @@ public class Test_1 {
 
         System.out.printf("Nota final = %.1f%n", notaFinal);
 
-        if (notaFinal < 60 ){
+        if (notaFinal <= 60 ){
             System.out.println(" Reprovado! ");
         }
         else {
