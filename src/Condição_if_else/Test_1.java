@@ -9,13 +9,13 @@ public class Test_1 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        double nota_1 = sc.nextDouble();
-        double nota_2 = sc.nextDouble();
-        double notaFinal = nota_1 + nota_2;
+        int nota_1 = sc.nextInt();
+        int nota_2 = sc.nextInt();
+        int notaFinal = (nota_1 + nota_2)/2;
 
-        System.out.printf("Nota final = %.1f%n", notaFinal);
+        System.out.printf("Nota final = %d ", + notaFinal);
 
-        if (notaFinal <= 60 ){
+        if (notaFinal <= 6 ){
             System.out.println(" Reprovado! ");
         }
         else {
